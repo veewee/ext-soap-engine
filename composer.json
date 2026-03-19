@@ -23,7 +23,7 @@
         "php": "~8.3.0 || ~8.4.0 || ~8.5.0",
         "ext-soap": "*",
         "ext-dom": "*",
-        "azjezz/psl": "^3.0 || ^4.0 || ^5.0",
+        "php-standard-library/php-standard-library": "^3.0 || ^4.0 || ^5.0 || ^6.0",
         "php-soap/engine": "^2.16",
         "php-soap/wsdl": "^1.14",
         "symfony/options-resolver": "^5.4 || ^6.0 || ^7.0 || ^8.0"
